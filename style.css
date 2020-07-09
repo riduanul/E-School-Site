@@ -58,7 +58,7 @@
     border: none;
     border-radius: 25px;
     color: white;
-    width: 150px;
+    width: 110px;
     height: 35px;
     padding: 5px 5px;
     top:25px;
@@ -75,18 +75,56 @@
     background-color: white;
     border-top: none;
 }
+.teachers-heading{
+    color: #21B573;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.teachers-info{
+    padding-top: 20px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 30px;
+    border: none;
+    color: rgb(61, 58, 25)
+}
+
+.teachers-info:hover{
+    background-color: rgb(231, 238, 252)    ;
+    color: #21B573;
+    border: 1px solid white;
+    border-radius: 30px;
+    
+    
+}
+.campus-text{
+    text-align: center;
+    padding-left: 20px;
+}
+.campus-bg{
+    background-color: rgb(220, 238, 224);
+    background-image: url(images/campus/bg.jpg);
+}
+.carousel-indicators li{
+    background-color: #21B573;
+    
+}
+
 .footer-bg{
     background-color: rgb(43, 39, 39);
     color: white;
     width: 100%;
-    
+        
 }
 
 .footer-text{
     padding-top: 50px;
-    padding-left: 50px;
+    padding-left: 60px;
     font-size: 18px;
-    line-height: 30px;
+    line-height: 35px;
     color:lightgray
     
 }
@@ -96,7 +134,7 @@
     padding-top: 50px;
     padding-left: 30px;
     font-size: 18px;
-    line-height: 30px;
+    line-height: 35px;
     color:lightgray
     
 }
