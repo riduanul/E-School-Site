@@ -49,6 +49,10 @@
     background-color: white;
     box-shadow: 5px 5px 5px lightgray;
 }
+
+.box-text{
+    padding-top: 20px;
+}
 .buy-courses-button{
     background-color:#21B573;
     border: none;
