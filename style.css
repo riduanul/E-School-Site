@@ -1,6 +1,6 @@
 .container{
     margin-bottom:100px;
-    font-family:;
+    
     
 }
 .header-body{
@@ -58,7 +58,7 @@
     border: none;
     border-radius: 25px;
     color: white;
-    width: 110px;
+    width: 140px;
     height: 35px;
     padding: 5px 5px;
     top:25px;
